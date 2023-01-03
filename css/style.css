@@ -160,8 +160,11 @@ header.masthead .device-container .screen img {
 
 /* Footer section ============= */
 
-.social {
-    margin-top: 5rem;
+.row {
+    margin-top: 2rem;
+  }
+  .social {
+    margin-bottom: 2rem;
   }
   footer {
     padding: 25px 0;
